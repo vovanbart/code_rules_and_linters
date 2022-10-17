@@ -1,7 +1,8 @@
 ignore =
   D100,
   D103,
-  T201
+  T201,
+  R503
  paths = ./
  exclude = 
   tests
